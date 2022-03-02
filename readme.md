@@ -1,1 +1,1 @@
-a node files with focus on routing, request and responses using express to manage the server logic
+ node app with focus on routing, request and responses and  using  the express framework to manage the server logic
